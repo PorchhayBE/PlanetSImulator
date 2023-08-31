@@ -21,11 +21,17 @@ Before you begin, ensure you have the following:
 
 1. Clone this project to Local machine:
 2. Navigate to the project directory:
+
     > cd PlanetSimulator
+    
 3. Compile using command:
+
     > make
+
 4. Run the program:
+   
     > ./Nbody <Duration> <each tick duration> < ./Asset/planets.txt
+
 
 #### Customize the simulation
 1. Go to Asset Folder
